@@ -1,0 +1,2 @@
+Creating environment in conda --> environment name "carprediction"
+Need of environment : To remove the problem due to dependencies. environment isolates and distiguish each by project seperately and install diffrent diffrent version of same framework(library). this avoid the errors due to version of libraries used in project. 
